@@ -38,7 +38,7 @@ $border-color-default: #ced0d3;
 $border-radius-default: 4px;
 
 // Topbar
-$topbar-bg: #020557;
+$topbar-bg: #8d83e2;
 $topbar-minimalheight: 48px;
 $topbar-border-color: $border-color-default;
 
@@ -134,6 +134,7 @@ $navigation-sub-color-active: #fff;
 // Navigation Sidebar
 $navsidebar-bg: $sidebar-bg;
 $navsidebar-bg-hover: darken($navsidebar-bg, 10%);
+// $navsidebar-bg-active: darken($navsidebar-bg, 10%);
 $navsidebar-bg-active: darken($navsidebar-bg, 10%);
 
 $navsidebar-sub-bg: $navsidebar-bg-hover;
